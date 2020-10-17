@@ -9,9 +9,9 @@ For purposes of organization, my repositories are split up into ~~categories~~ o
 - [GameMaker Things](https://github.com/YAL-GameMaker)  
   Various GameMaker projects and extensions.
 - [GameMaker Tools](https://github.com/YAL-GameMaker-Tools)  
-  GameMaker-specific tools - such as automation or data management.
+  GameMaker-specific tools - automation, format converters, etc.
 - [Game Tools](https://github.com/YAL-Game-Tools)  
-  Mods and game-specific tools
+  Mods and game-specific tools.
 
 Also see:
 
