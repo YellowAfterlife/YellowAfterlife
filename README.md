@@ -12,6 +12,8 @@ For purposes of organization, my repositories are split up into ~~categories~~ o
   GameMaker-specific tools - automation, format converters, etc.
 - [Game Tools](https://github.com/YAL-Game-Tools)  
   Mods and game-specific tools.
+- [GMEdit Things](https://github.com/YAL-GMEdit)  
+  Various themes and plugins for [GMEdit](https://github.com/GameMakerDiscord/GMEdit/).
 
 Also see:
 
