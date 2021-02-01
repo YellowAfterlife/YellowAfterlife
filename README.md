@@ -13,7 +13,9 @@ For purposes of organization, my repositories are split up into ~~categories~~ o
 - [Game Tools](https://github.com/YAL-Game-Tools)  
   Mods and game-specific tools.
 - [GMEdit Things](https://github.com/YAL-GMEdit)  
-  Various themes and plugins for [GMEdit](https://github.com/GameMakerDiscord/GMEdit/).
+  Various themes and plugins for [GMEdit](https://github.com/YellowAfterlife/GMEdit/).
+- [Forks](https://github.com/YAL-Forks)  
+  Various small contributions to other people's code.
 
 Also see:
 
