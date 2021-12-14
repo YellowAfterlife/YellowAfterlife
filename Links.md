@@ -48,6 +48,8 @@ Tools:
 
 * [libLassebq](https://github.com/nkrapivin/libLassebq): an experimental modding library for YYC-based GameMaker games.  
   Requires substantial effort to support new games!
+* [YYToolkit](https://github.com/Archie-osu/YYToolkit): a slightly less experimental modding library for GameMaker games.  
+  (some limitations apply)
 * [BepInEx](https://github.com/BepInEx/BepInEx): a modding tool for Unity and FNA games.
 * [MelonLoader](https://github.com/LavaGang/MelonLoader): also a modding tool for Unity.
 * [MonoMod](https://github.com/MonoMod/MonoMod): a broader library for C#/Mono modding.
