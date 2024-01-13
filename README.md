@@ -12,11 +12,11 @@ My repositories are split up into ~~categories~~ organizations:
   Various GameMaker projects and extensions.
 - [GameMaker Tools](https://github.com/YAL-GameMaker-Tools)  
   GameMaker-specific tools - automation, format converters, etc.
-- [Godot Things](https://github.com/YAL-Godot)
+- [Godot Things](https://github.com/YAL-Godot)  
   A few example projects and tests for Godot.
 - [Game Tools](https://github.com/YAL-Game-Tools)  
   Game-specific tools (patchers, editors, etc.).
-- [Game Things](https://github.com/YAL-Game-Things)
+- [Game Things](https://github.com/YAL-Game-Things)  
   Game mods and guides.
 - [Tools](https://github.com/YAL-Tools)  
   Tools that didn't fit into any of above categories.
