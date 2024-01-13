@@ -12,21 +12,25 @@ My repositories are split up into ~~categories~~ organizations:
   Various GameMaker projects and extensions.
 - [GameMaker Tools](https://github.com/YAL-GameMaker-Tools)  
   GameMaker-specific tools - automation, format converters, etc.
+- [Godot Things](https://github.com/YAL-Godot)
+  A few example projects and tests for Godot.
 - [Game Tools](https://github.com/YAL-Game-Tools)  
-  Mods and game-specific tools.
+  Game-specific tools (patchers, editors, etc.).
+- [Game Things](https://github.com/YAL-Game-Things)
+  Game mods and guides.
 - [Tools](https://github.com/YAL-Tools)  
-  Tools that didn't fit into either of above categories.
+  Tools that didn't fit into any of above categories.
 - [GMEdit Things](https://github.com/YAL-GMEdit)  
   Various themes and plugins for [GMEdit](https://github.com/YellowAfterlife/GMEdit/).
 - [Forks](https://github.com/YAL-Forks)  
-  Various small contributions to other people's code.
+  An archive of my various contributions to other people's code.
 
 Also see:
 
 - [My profile](https://github.com/YellowAfterlife?tab=repositories)  
   Repositories that do not fit any of above categories or have not been organized yet.
 - [itch.io page](https://yellowafterlife.itch.io/)  
-  A slightly more organized look over my work, open-source or not.
+  Various game assets and game jam entries, open-source or not.
 - [My blog](https://yal.cc)  
   Countless posts and tutorials. Code looks cleaner when it's written for people to learn from it.
 
