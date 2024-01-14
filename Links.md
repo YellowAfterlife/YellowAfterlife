@@ -46,15 +46,22 @@ Tools:
 
 ## Modding, hooks
 
+General:
+* [Detours](https://github.com/microsoft/Detours): hooking (and other Cool Tricks) for unmanaged applications
+* [Harmony](https://github.com/pardeike/Harmony): hooking for managed applications
+* [WinAPI hooking demo](https://github.com/andreasjhkarlsson/winapi-hooking-demo): a simple example of how to hook WinAPI functions.
+
+Game-specific:
 * [libLassebq](https://github.com/nkrapivin/libLassebq): an experimental modding library for YYC-based GameMaker games.  
   Requires substantial effort to support new games!
 * [YYToolkit](https://github.com/Archie-osu/YYToolkit): a slightly less experimental modding library for GameMaker games.  
   (some limitations apply)
-* [BepInEx](https://github.com/BepInEx/BepInEx): a modding tool for Unity and FNA games.
+* [BepInEx](https://github.com/BepInEx/BepInEx): a modding tool for Unity and FNA games.  
+  **Also see:** [Debugging Unity games](https://github.com/risk-of-thunder/R2Wiki/wiki/Mod-Creation_C%2523-Programming_Debugging-Your-Mods)
 * [MelonLoader](https://github.com/LavaGang/MelonLoader): also a modding tool for Unity.
+* [UnityExplorer](https://github.com/sinai-dev/UnityExplorer): a plugin for either of above that adds a scene hierarchy view.
 * [MonoMod](https://github.com/MonoMod/MonoMod): a broader library for C#/Mono modding.
 * [Cecil](https://github.com/jbevain/cecil): the underlying library for .NET manipulation.
-* [WinAPI hooking demo](https://github.com/andreasjhkarlsson/winapi-hooking-demo): a simple example of how to hook WinAPI functions.
 
 ## Fonts (and tools to make them)
 
